@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Exclude node_modules from git
+node_modules/ export-ignore
+**/node_modules/ export-ignore
+
