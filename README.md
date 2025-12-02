@@ -249,43 +249,16 @@ NODE_ENV=development
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is created for educational purposes.
-
----
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+Yash Sushil  - 23BCE10538
+- GitHub: [@yashsushil16](https://github.com/yashsushil16)
 
 ---
 
-## 🙏 Acknowledgments
 
-- YIT University for the project inspiration
-- All contributors and testers
 
----
-
-## 📞 Support
-
-If you have any questions or issues, please open an issue on GitHub.
-
----
-
-**Made with ❤️ for YIT University**
 
